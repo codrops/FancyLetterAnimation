@@ -1,12 +1,14 @@
 # Fancy SVG Letter Animation
 
+![Fancy SVG Letter Animation](http://tympanus.net/codrops/wp-content/uploads/2016/09/FancySVGLetterAnimation_800x600.jpg)
+
 An experimental SVG letter animation inspired by the Dribbble shot ["Shading Letters in Illustrator"](https://dribbble.com/shots/2943049-Shading-Letters-in-Illustrator) by Jake Bartlett's. Powered by Julian Garnier's [anime.js](http://anime-js.com/).
 
 [Article on Codrops](http://tympanus.net/codrops/?p=27976)
 
 [Demo](http://tympanus.net/Tutorials/FancyLetterAnimation/)
 
-This demo is sponsored by [Mighty Deals: Amazing Font Deals](http://goo.gl/5opj3i).
+This demo is sponsored by [Mighty Deals: Amazing Font Deals](https://goo.gl/9YANfs).
 
 ## License
 
