@@ -6,7 +6,7 @@ An experimental SVG letter animation inspired by the Dribbble shot ["Shading Let
 
 [Article on Codrops](http://tympanus.net/codrops/?p=27976)
 
-[Demo](http://tympanus.net/Tutorials/FancyLetterAnimation/)
+[Demo](https://tympanus.net/Development/FancyLetterAnimation/)
 
 This demo is sponsored by [Mighty Deals: Amazing Font Deals](https://goo.gl/9YANfs).
 
